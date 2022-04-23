@@ -13,6 +13,7 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/gauthamp10/
 Some files were too large to upload to GitHub. They are the:
 - Original dataset
 - Random forest model
+
 Their zip files can be downloaded from [here](https://drive.google.com/drive/folders/1Yjt0WPY1M-7OwkbCnmTev6RSr5d8CRg-?usp=sharing)
 
 Run the Jupyter notebooks in the following order
@@ -34,6 +35,7 @@ Some cleaning and preparation we did includes:
 - Ensuring all prices are in the same currency (USD)
 - Converting app size to kilobytes
 - Deriving new columns
+
 etc.
 
 ## Exploratory data analysis
@@ -54,3 +56,12 @@ The machine learning models we used were:
 4. Random forest with XGBoost
 
 ---
+
+# New things we've leant
+- SMOTE for handling class imbalance
+- Encoding categorical data using pandas get_dummies() function
+- Trying out different machine learning models not covered in the module:
+  - Logistic regression
+  - AdaBoost
+  - Random forest with XGBoost
+- Finding feature importance
