@@ -18,6 +18,7 @@ Run the Jupyter notebooks in the following order
 3. Machine Learning Techniques
 
 Project deliverables (link to video and PDF slides) can be found in the 'Project Deliverables' folder.
+Alternatively, follow [this link](https://youtu.be/0OAhe5IueII) to view our project video!
 
 ---
 
