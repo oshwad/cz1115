@@ -7,21 +7,17 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/gauthamp10/
 
 # How to use this repository
 1. Download the Jupyter notebook files
-2. Download all files in the 'Datasets and Models' folder
-3. Put all downloaded files in the same directory
-
-Some files were too large to upload to GitHub. They are the:
-- Original dataset
-- Random forest model
-
-Their zip files can be downloaded from [here](https://drive.google.com/drive/folders/1Yjt0WPY1M-7OwkbCnmTev6RSr5d8CRg-?usp=sharing)
+2. Follow the link in the PDF document in the 'Datasets and Models' folder/or follow the link [here](https://drive.google.com/drive/folders/1Yjt0WPY1M-7OwkbCnmTev6RSr5d8CRg-?usp=sharing)
+3. Download the "data.zip" file from the Google Drive
+5. Put all downloaded files in the same directory
+6. Unzip the data file
 
 Run the Jupyter notebooks in the following order
 1. Data Preparation and Cleaning
 2. Exploratory Data Analysis
 3. Machine Learning Techniques
 
-Project deliverables (video and slides) can be found in the 'Project Deliverables' folder.
+Project deliverables (link to video and PDF slides) can be found in the 'Project Deliverables' folder.
 
 ---
 
